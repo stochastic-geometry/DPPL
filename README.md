@@ -18,7 +18,7 @@ Please cite the following paper if the code is reused.
   note={available online: arxiv/abs/},
   year={2019}
 }
-'''
+```
 **Acknowledgements.**
 This repository reuses codes from the following sources. 
 - ggplab: A Matlab toolbox for geometric programming (link: https://web.stanford.edu/~boyd/ggplab/)
