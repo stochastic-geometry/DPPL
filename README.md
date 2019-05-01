@@ -16,5 +16,5 @@ This repository reuses codes from the following sources.
 - hpaulkeeler/DetPoisson_MATLAB: A github repositoty for determinantal point process
 - Codes for the paper --
  Gillenwater, J., Kulesza, A., & Taskar, B. (2012). Near-optimal map inference for determinantal point processes. In Advances in Neural  Information Processing Systems (pp. 2735-2743).
-  Original repository link not found. 
+  Link of source code: http://jgillenw.com/dpp-map.html 
 
