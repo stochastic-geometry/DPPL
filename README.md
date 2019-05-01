@@ -1,7 +1,7 @@
 # Determinantal Point Process Learning (DPPL)
 ### Matlab scripts for the paper "Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks"
 #### Authors: Chiranjib Saha and Harpreet S. Dhillon
-##### email for correspondence: csaha@vt.edu
+##### Email for correspondence: csaha@vt.edu
 
 This repository contains the matlab scripts of DPPL proposed in the paper "Machine Learning meets Stochastic Geometry:
 Determinantal Subset Selection for Wireless
@@ -9,6 +9,10 @@ Networks".
 
 Run "TrainDPP.m" to generate the results.
 Under the folder "GenerateTrainingSet", use generateTrainingSet.m to generate new training sets.
+
+Please cite the following paper if the code is reused. 
+--bibentry to be updated..
+
 
 **Acknowledgements.**
 This repository reuses codes from the following sources. 
