@@ -11,9 +11,14 @@ Run "TrainDPP.m" to generate the results.
 Under the folder "GenerateTrainingSet", use generateTrainingSet.m to generate new training sets.
 
 Please cite the following paper if the code is reused. 
---bibentry to be updated..
-
-
+```
+@article{saha2019load,
+  title={Machine Learning meets Stochastic Geometry: {D}eterminantal Subset Selection for Wireless Networks},
+  author={Saha, Chiranjib and Dhillon, Harpreet S},
+  note={available online: arxiv/abs/},
+  year={2019}
+}
+'''
 **Acknowledgements.**
 This repository reuses codes from the following sources. 
 - ggplab: A Matlab toolbox for geometric programming (link: https://web.stanford.edu/~boyd/ggplab/)
