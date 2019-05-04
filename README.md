@@ -22,6 +22,7 @@ Please cite the following paper if the code is reused.
 **Acknowledgements.**
 This repository reuses codes from the following sources. 
 - ggplab: A Matlab toolbox for geometric programming (link: https://web.stanford.edu/~boyd/ggplab/)
+  Note: please download the matlab scripts of geometric programming from this link and put the folder in "GenerateTrainingSets"
 - hpaulkeeler/DetPoisson_MATLAB: A github repositoty for determinantal point process
 - Codes for the paper --
  Gillenwater, J., Kulesza, A., & Taskar, B. (2012). Near-optimal map inference for determinantal point processes. In Advances in Neural  Information Processing Systems (pp. 2735-2743).
