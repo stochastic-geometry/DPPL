@@ -15,7 +15,7 @@ Please cite the following paper if the code is reused.
 @article{saha2019load,
   title={Machine Learning meets Stochastic Geometry: {D}eterminantal Subset Selection for Wireless Networks},
   author={Saha, Chiranjib and Dhillon, Harpreet S},
-  note={available online: arxiv/abs/},
+  note={available online: arxiv.org/abs/1905.00504},
   year={2019}
 }
 ```
