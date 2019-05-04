@@ -3,6 +3,8 @@
 #### Authors: Chiranjib Saha and Harpreet S. Dhillon
 ##### Email for correspondence: csaha@vt.edu
 
+Link to the paper: https://arxiv.org/pdf/1905.00504.pdf
+
 This repository contains the matlab scripts of DPPL proposed in the paper "Machine Learning meets Stochastic Geometry:
 Determinantal Subset Selection for Wireless
 Networks". 
